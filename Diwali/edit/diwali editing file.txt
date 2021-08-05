@@ -1,0 +1,24 @@
+<html>
+
+	<head>	
+		<title> my first web page	</title>
+	</head>
+	
+	<body bgcolor="0008ff" background="diwali.jpg">
+
+	<u><b><i><h1><font family:times new roman color="cyan" font:bold italic underline> <marquee> happy diwali !! </marquee></h1></font></u></b></i>
+	<hr size=6 color=orange width="75%">
+	<hr size=4 color=yellow width="50%">
+	<hr size=5 color=red width="25%">
+	<img src="diwali.gif" width="600" height="400">
+	<left><img src="happy diwali.jpg" width="700" height="400">
+	<br>
+	<hr size=7 color=blue width="25%">
+	<hr size=5 color=green width="50%">
+	<hr size=3 color=brown width="75%">
+	<b><u><i><font family:times new roman color="cyan"><h1> <marquee> thank you </marquee></font></b></u></i>
+
+
+	</body> 
+
+</html>
